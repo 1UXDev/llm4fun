@@ -1,3 +1,5 @@
+# Tests written by Claude Code
+
 """
 Tests for Stage 1.1 — char-level tokenizer.
 
